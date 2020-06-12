@@ -8,4 +8,4 @@ rich;python_version>='3.6'
 six
 srt>=3.0.0
 tqdm
-webrtcvad
+webrtcvad-wheels
